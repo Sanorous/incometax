@@ -1,0 +1,6 @@
+#hiderow,
+.delete {
+  display: none;
+}
+
+@media print{@page {size: portrait}}
